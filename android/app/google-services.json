@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "490672454147",
+    "firebase_url": "https://k4community20.firebaseio.com",
+    "project_id": "k4community20",
+    "storage_bucket": "k4community20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490672454147:android:ca86c07e1d4845b4f52c36",
+        "android_client_info": {
+          "package_name": "com.chat_example_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9pEUorGdotNhuWQgsPq4tQ_6ugBQx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490672454147-19iau9h3ortddoj57ortu13oqh0i0qa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.k4connect.CommunicationSampleApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490672454147:android:9c6a53a0e90afb9af52c36",
+        "android_client_info": {
+          "package_name": "com.communicationsampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9pEUorGdotNhuWQgsPq4tQ_6ugBQx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490672454147-19iau9h3ortddoj57ortu13oqh0i0qa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.k4connect.CommunicationSampleApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490672454147:android:06591dd7ff675cd4f52c36",
+        "android_client_info": {
+          "package_name": "com.k4connect.k4app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9pEUorGdotNhuWQgsPq4tQ_6ugBQx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490672454147-19iau9h3ortddoj57ortu13oqh0i0qa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.k4connect.CommunicationSampleApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490672454147:android:c72d482de73a0c16f52c36",
+        "android_client_info": {
+          "package_name": "com.k4connect.k4community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9pEUorGdotNhuWQgsPq4tQ_6ugBQx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490672454147-cas3r2m23ulrcp8bclh90tes3q7vb9a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490672454147-19iau9h3ortddoj57ortu13oqh0i0qa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.k4connect.CommunicationSampleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
